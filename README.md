@@ -2,8 +2,6 @@
 
 ## Über mich
 
-<img src="https://avatars.githubusercontent.com/u/75691996?v=4" alt="Profilbild" width="150"/>
-
 Hey! Ich bin Julius, 22 Jahre alt und Softwareentwickler. Ich liebe es, neue Dinge zu lernen und coole Projekte zu entwickeln.
 
 ## Interessen
