@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hallo, ich bin Julius!
 
-<!--
-**jukrams/jukrams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich
 
-Here are some ideas to get you started:
+<img src="https://avatars.githubusercontent.com/u/75691996?v=4" alt="Profilbild" width="150"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey! Ich bin Julius, 22 Jahre alt und Softwareentwickler. Ich liebe es, neue Dinge zu lernen und coole Projekte zu entwickeln.
+
+## Interessen
+
+
+- **👨‍💻 Programmieren**: Jede Art von Programmierchallenges lösen und meine Fähigkeiten verbessern.
+- **🧩 Problemlösung**: Knifflige Probleme lösen.
+- **🎸 Gitarre spielen**: Musik machen und entspannen mit meiner Gitarre.
+- **♟️ Schach spielen**: Taktik und Strategie verbessern und an spannenden Partien teilnehmen.
+
+
+## Fähigkeiten
+
+| Fähigkeit             | Niveau           |
+|-----------------------|------------------|
+| 🐍 **Python**          | ![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+) **Fortgeschritten** |
+| 🐦 **Flutter & Dart**  | ![#00FF00](https://via.placeholder.com/15/00FF00/000000?text=+) **Fortgeschritten** |
+| 🗄️ **SQL**             | ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) **Mittelstufe**      |
+| 🌳 **Git**             | ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) **Mittelstufe**      |
+
+
+## Kontakt
+
+- **Phone**: +49 0151-62701249
+- **Email**: julius.krams@gmail.com
+- **GitHub**: [Julius' GitHub](https://github.com/jukrams)
+
+![Funny Cat](https://cdn.pfps.gg/banners/1938-cat.gif)
