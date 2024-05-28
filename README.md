@@ -11,6 +11,10 @@ Hey! Ich bin Julius Krams, 22 Jahre alt und Softwareentwickler. Ich liebe es, ne
 - **🎸 Gitarre spielen**: Musik machen und entspannen mit meiner Gitarre.
 - **♟️ Schach spielen**: Taktik und Strategie verbessern und an spannenden Partien teilnehmen.
 - **💪 Kraftsport**: Trainieren und fit bleiben.
+-  [🎵 Mein Lieblingssong anhören](https://open.spotify.com/intl-de/track/4VqPOruhp5EdPBeR92t6lQ?si=00a8a19ed71a43d2)
+
+
+
 
 ## Fähigkeiten
 
@@ -31,4 +35,3 @@ Hey! Ich bin Julius Krams, 22 Jahre alt und Softwareentwickler. Ich liebe es, ne
 ---
 
 *Lass uns verbinden und etwas Großartiges zusammen erschaffen!*
-
