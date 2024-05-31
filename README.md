@@ -30,7 +30,7 @@ Hey! Ich bin Julius Krams, 22 Jahre alt und Softwareentwickler. Ich liebe es, ne
 - **Phone**: +49 0151-62701249
 - **Email**: julius.krams@example.com
 - **GitHub**: [Julius' GitHub](https://github.com/juliuskrams)
-- **LinkedIn**: [Julius' LinkedIn](https://linkedin.com/in/julius-krams)
+- **LinkedIn**: [Julius' LinkedIn](www.linkedin.com/in/julius-krams-181006296)
 
 ---
 
